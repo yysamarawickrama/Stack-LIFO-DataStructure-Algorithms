@@ -1,7 +1,4 @@
-
-
 package stack;
-
 
 public class Stack {
     private int maxValue;
