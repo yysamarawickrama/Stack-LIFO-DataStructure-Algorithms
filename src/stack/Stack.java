@@ -4,6 +4,7 @@ public class Stack {
     private int maxValue;
     private int StackArray[];
     private int index;
+    private int hello;
     
     public Stack(int maxValue){
         this.maxValue = maxValue;
